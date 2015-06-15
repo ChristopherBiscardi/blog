@@ -1,0 +1,2 @@
+dev:
+	antwar -d
